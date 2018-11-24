@@ -1,0 +1,12 @@
+name: app
+version: 1.0.0
+deps:
+  jphp-core: '*'
+  jphp-zend-ext: '*'
+  jphp-httpserver-ext: '*'
+plugins:
+- App
+sources:
+- src
+includes:
+- index.php

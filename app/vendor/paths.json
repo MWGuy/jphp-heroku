@@ -1,0 +1,29 @@
+{
+  "classPaths": {
+    "": [
+      "/jphp-core/jars/jphp-core-0.9.3-SNAPSHOT.jar",
+      "/jphp-core/jars/asm-all-5.2.jar",
+      "/jphp-runtime/jars/jphp-runtime-1.0.3.jar",
+      "/jphp-zend-ext/jars/jphp-zend-ext-0.9.3-SNAPSHOT.jar",
+      "/jphp-zend-ext/jars/gson-2.7.jar",
+      "/jphp-json-ext/jars/jphp-json-ext-0.9.3-SNAPSHOT.jar",
+      "/jphp-json-ext/jars/gson-2.7.jar",
+      "/jphp-httpserver-ext/jars/websocket-servlet-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/websocket-server-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/websocket-client-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/websocket-common-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/jetty-client-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/jetty-http-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/jetty-util-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/jetty-security-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/websocket-api-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/jetty-servlet-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/jetty-io-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/jetty-server-9.4.3.v20170317.jar",
+      "/jphp-httpserver-ext/jars/javax.servlet-api-3.1.0.jar",
+      "/jphp-httpserver-ext/jars/jphp-httpserver-ext-0.9.3-SNAPSHOT.jar"
+    ]
+  },
+  "includes": [],
+  "plugins": []
+}
