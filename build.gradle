@@ -1,9 +1,4 @@
 task stage(type:Exec) {
      workingDir './app'
      commandLine 'sh', '../jppm-bin/jppm', 'build'
-
-     standardOutput = new ByteArrayOutputStream()
-     ext.output = {
-          return standardOutput.toString()
-     }
 }
