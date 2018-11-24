@@ -1,0 +1,24 @@
+
+common.class: класс
+common.function: функция
+common.final: final
+common.asbtract: abstract
+common.package: пакет
+
+common.extends: унаследован от
+common.source: исходники
+common.depricated: устарело
+
+class.description.title: Описание
+class.classes.title: Классы
+class.method.title: Методы
+class.static-method.title: Статичные Методы
+class.properties.title: Свойства
+class.see-parent-class: См. также в родительском классе
+class.property.readonly: Только для чтения
+class.children.list: Классы наследники
+
+index.install.title: Установка
+index.api.title: АПИ
+
+index.description: 'версия {0}, создано с помощью JPPM.'
